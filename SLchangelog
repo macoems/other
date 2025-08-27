@@ -1,0 +1,188 @@
+26.08.2025
+SCP-314 Update
+
+SCP-314 Added
+Attacking a player will do 1 damage but make you charge forward hitting every enemy in your path dealing 60 damage.
+This has a cooldown of 3 Seconds.
+If hume is lost their attack cooldown is reduced by 1.5 seconds.
+
+Stats
+500 HP
+500 Hume
+13.5 Speed
+20 Range
+Unable To Jump
+
+Tether Ability
+314 Can drop a tether that when inside will reduce its attack cooldown by 1 second..
+The tether has an effect of its range so you know where to stay clear off.
+1 Minute cooldown.
+
+Charge Ability
+314 Can crouch to start the charge ability that when ready will launch 314 in its forward direction dealing 75 damage and dragging enemies along until it ends.
+The forward direction is the place 314 looked before starting the charge.
+THIS IS A VERY PRECISE ATTACK.
+3 Second charge time.
+1 Minute cooldown.
+
+COM45/GLOCK72 VM and 3rd person model added.
+
+19.08.2025
+Rework Update
+
+610 Brute Reworked
+MAX HP now drains at a rate of 5hp a second.
+Max HP can be regained from kills or infecting rooms.
+
+Room Infection = 500 Max HP
+500 HP
+Kill = 200 Max HP
+150 HP
+
+035 Reworked
+
+SCP-035 will now have 2 different state of being alive.
+035 Will also work on a life system.
+035 will lose a life if they die in the Humanoid state but if they die in the Mask state it does not come back.
+035s Death will be announced by CASSIE if they die on their last life or die in the mask state.
+
+MASK STATE
+035 Will act in a similar way to 058.
+035 has their melee during this state.
+Once 035 gets a kill in this state they become their humanoid state.
+Unable to pick items up.
+
+STATS
+500 HP
+16 Speed
+35 Melee Damage
+0.5 Melee CD
+
+HUMANOID STATE
+The usual 035.
+Loses their melee.
+If 035 dies in this state they will lose a life and return to their Mask state.
+Can pick items up.
+Can use Healing items.
+
+STATS
+200 HP
+14 Speed
+2 Inventory Slots
+
+SOME HOOKS REMOVED
+Gamemodes have been removed due to reaching a hook limit.
+The modes usually killed the player count anyway.
+Other stuff like joke classes or gamemode specific classes have also been removed.
+
+SCP-939 Pounce Ability is back and buffed.
+
+
+16.08.2025
+Added Changelog.
+Fixed Lab 4 gen locations
+Fixed Lab 5 gen locations
+
+
+
+15.08.2025
+Fixed MTF cadet having cadet keycard.
+Fixed keycard and gun stats in inventory showing incorrectly.
+Fixed 914 on Labs 4 and 5.
+
+Lab 5 Update
+Moved armory away from 914.
+
+14.08.2025
+Fully fixed SCP-330-2 (removed spawn prot bug and it no longer recharges your railgun etc.).
+Made a new setting to turn off emote music for yourself so others no longer annoy you (!emotemusicvolume 0).
+Fully fixed SCP-500 (no longer recharges your railgun etc.).
+Fixed some sounds still being able to be heard while intro is playing.
+Marshmallow Man, SCP-1770 can no longer slide.
+Uou can now again slide while standing still.
+
+Room Update
+939 Room is now in the style of heavy duty and is now more detailed and accurate than what it was.
+
+
+
+13.08.2025
+363 Model Change
+363 is no longer just the head but is now a raised segment.
+This now results in a bigger hitbox and shorter segmented body.
+Immunity Increased  20 -> 40
+096 Room is also now its Heavy Duty version.
+
+MTF Commander Change
+Scan is no longer multiple items.
+Only the blue soda is used and you can crouch to switch scan modes.
+
+COM-45 Nerf
+Recoil Increased 1.5 -> 2
+
+New 939 vision
+No more darkness, just black and white
+
+Slight Room Update
+Every room is now using 2022 textures. (Sorta)
+Its mostly on concrete so HCZ looks better.
+Work is being done on heavy duty rooms.
+
+
+
+12.08.2025
+Fixes Update
+- 3114 is now fixed and back to being playable.
+Guns held by 3114 will have no ammo to prevent any chance of them being able to get lucky with a low hp kill.
+3114 Normal melee damage Decreased 40 -> 34 (same reason as 939 to not 3 shot light vests)
+
+- 244 is now back and slightly changed.
+While in 244 you will get a slight chill effect on your hud and it will continue to deal damage until the effect has worn off.
+244 no longer deals increased damage to flams to prevent the entire wave dying from a 244 at the elevator.
+035 Only takes 1x Damage from 244
+
+- You can now Cuff with guns. (PC ONLY)
+Holding a Gun and Holding E while facing a person not holding an item will cuff them.
+Cuffs still exist for non pc users.
+
+- Cuffed escapes are also buffed.
+Cuffed escapes now result in 1-2 random spectators also spawning as that escaped class.
+1 Cuffed Class-D = 2-3 MTF Cadets
+1 Cuffed Facility Personnel = 2-3 CI Beta
+
+- Vector VM has been adjusted a bit to make the ads better.
+
+3114 Damage Nerf 34 -> 20
+939 Damage Nerf 34 -> 25
+
+
+
+11.08.2025
+Custom VMs Added
+All guns with a custom 3rd person model now replace the viewmodel for 1st person.
+Editing VMs isnt perfect and is absolute hell to do.
+Maxim somehow managed to make most of the iron sights match up.
+Also the inventory icon for these guns will be custom.
+
+Recruiter Fix
+People recruited no longer stay cuffed.
+
+GOC Operator Nerf
+Minigun Damage Decreased 4.5 -> 3.5
+This still might be too strong since if all pellets from 1 shot hit, it does 52.5 damage.
+
+939 Nerf 
+Damage Decreased 38 -> 34
+To make light vests not get 3 shot
+
+Adjusted how the silencer looks on guns
+
+
+
+10.08.2025
+HP Changes
+096 HP Reduced 2400 -> 2000
+058 HP Reduced 200 -> 150
+062 HP Changed, each weapon/stage will decrease his hp.
+Baton Stage HP = 2500
+Rifle Stage HP = 1000
