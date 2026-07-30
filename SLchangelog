@@ -1,3 +1,83 @@
+SCP-3199 Remodelled And Reworked
+
+STATS
+
+2500 HP
+50 Damage
+1.75 Attack Cooldown
+14.5 Speed
+17 Sprint Speed
+
+
+VOICEBOX - Passive
+
+3199 Will Emit A Sound When Doing Certain Actions.
+Using Chat - 3 Random Sound Effects With A 1/3 Chance.
+Sprinting - Will Emit A Sound After 1 Second Of Sprinting.
+Egg Usage - Will Emit A Screech.
+
+
+ACIDIC VOMIT - Attack
+
+Upon Hitting A Player It Will Also Hit Nearby Players And Emit A Particle Effect.
+The Player Hit By 3199's Normal Attack Will Be Unaffected By This.
+(This wont work when near elevators)
+
+
+LIMB EATER - Ability
+
+While Using The Eat Item, 3199 Can Eat Parts Of Corpses.
+Corpses Will Be 5 Parts In Total.
+Arms - 2
+Legs - 2
+Head + Torso - 1
+
+Eating Corpse Parts Will Heal 3199 50 HP.
+
+
+EGG HATCHER - Ability / Passive?
+
+3199 Will Have No Main Version.
+Every 3199 Will Be The Same.
+A 3199 Can Only Spawn 1 Unless Its 3199 Dies.
+If 3199 Has A Full Egg And A Spawned 3199 Alive But Dies It Will Respawn.
+3199 Can Respawn Their 3199 If It Dies.
+
+While As 3199 An Egg Ui Will Appear In The Bottom Right.
+Eating Corpse Parts Will Fill This Egg UI Meter.
+
+Spawn Egg - 20 Corpse Parts Eaten
+
+Respawn Egg - 30 Corpse Parts Eaten
+
+
+HATCHLING - Passive
+
+When A New 3199 Is Spawned It Will Be A Hatchling. (just a smaller 3199)
+The Hatchling Will Have Reduced Stats And A Normal Attack.
+It Will Take 1 Minute For A Hatchling To Fully Grow.
+When Full Grown It Will Emit A Screech.
+The Hatchling Will Show Its Growth By Growing Bigger Every 10 Seconds.
+The Hatchling Would Also Only Be Able To Eat Corpses.
+Eating A Corpse Part Will Advance The Timer By 10 Seconds.
+
+HATCHLING STATS
+
+500HP
+14.5 Speed
+Only Eating Ability
+
+
+ACID PILE - Ability
+
+3199 Will Spew A Pile Of Acid On The Floor.
+This Will Cost Them 5 Corpse Parts.
+Its Radius Will Be 9 Studs And It Will Deal 20 Damage A Second.
+Acid Piles Last 30 Seconds And Have a Recharge Of 1 Minute.
+(unusable near elevators)
+
+PREVIOUS UPDATE-----------------------------------------------------------------
+
 Environmental SCP's Added
 (or are they just scp items?)
 
@@ -19,47 +99,3 @@ Laying On A Desk In The LCZ Office.
 Interact With It For A Random Effect.
 Can Only Be Used Once Per Life.
 
-
-EFFECTS
-
-MUSCLE MUTATION
-
-A Temporary Buff That Lasts 5 Minutes.
-
-+50 Max HP
-+2 Speed
-
-Once The Buff Wears Off
-
-Return To Normal Stats
-
--15 Max Hp
--1 Speed
-
-
-CARDIAC ARREST
-
-Death.
-
-The Sound Of Your Heart Beats For Everyone Nearby To Hear, That Gets Faster Until You Die.
-
-
-ASTHMA
-
-Weaker Lungs
-
--50% Max Stamina
-
-
-MULTICELLULAR DIVISION
-
-Regrowing
-
-+5 HP A Second
-
-
-COMMON COLD
-
-Loud
-
-The Player Will Emit A Cough Sound Every 10 Seconds That Has A Distance Of 80 Studs.
